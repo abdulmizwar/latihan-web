@@ -1,0 +1,126 @@
+body.container{
+	display: flex;
+	flex-direction: column;
+}
+
+.main{
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+	height: 75px;
+	background-color: #5aa320;
+}
+
+.Menu{
+	color: white;
+	margin-left: 25px;
+	margin-top: 20px;
+	font-size: 10px;	
+}
+
+.main2{
+	display: flex;
+	flex-direction: column;
+}
+
+.center{
+	margin-top: 10px;
+	font-size: 20px;
+	font: bold;
+}
+
+.center2{
+	margin-top: 5px;
+	text-align: center;
+}
+
+.center2 p {
+	font-size: 10px;
+}
+
+.kumpulgambar{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+
+.pertama{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.gambar1{
+	width: 80%;
+	height: 100%;
+	margin-left: 25px;
+}
+.grey{
+	width: 70%;
+	height: 60px;
+	background-color: #eee;
+	margin-left: 30px;
+}
+.kedua{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+.gambar2{
+	width: 80%;
+	height: 100%;
+	margin-left: 2px;
+}
+
+.grey2{
+	width: 70%;
+	height: 60px;
+	background-color: #eee;
+	margin-left: 10px;
+}
+
+.ketiga{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.gambar3{
+	width: 80%;
+	height:100%;
+	margin-left: 2px;
+}
+
+.grey3{
+	width: 70%;
+	height: 60px;
+	background-color: #eee;
+	margin-left: 10px;
+}
+
+.gambar4{
+	width: 80%;
+	height:100%;
+	margin-left: 2px;
+}
+
+.keempat{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.gambar4{
+	width: 80%;
+	height:100%;
+	margin-left: 2px;
+}
+
+.grey4{
+	width: 70%;
+	height: 60px;
+	background-color: #eee;
+	margin-left: 10px;
+}
+
